@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MessagingApp</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="fcm_message">FCM Message</string>
+    <string name="default_notification_channel_name">Weather</string>
+    <string name="msg_token_fmt">FCM registration Token: %s</string>
+
+</resources>

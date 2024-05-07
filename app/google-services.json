@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "837812804325",
+    "project_id": "firestoreapp-e8393",
+    "storage_bucket": "firestoreapp-e8393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837812804325:android:5850e373147bad8ba9d20c",
+        "android_client_info": {
+          "package_name": "com.example.firestoreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTQShZ8bEBEJYT9E7CYz_raDQuzKYgqWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837812804325:android:a872969a6b751e6da9d20c",
+        "android_client_info": {
+          "package_name": "com.example.messagingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTQShZ8bEBEJYT9E7CYz_raDQuzKYgqWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
